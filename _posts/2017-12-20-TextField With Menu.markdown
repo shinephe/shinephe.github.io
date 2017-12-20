@@ -1,7 +1,7 @@
 ---
 title: "TextField With Menu"
 layout: post
-date: 2017-12-20 14:05
+date: 2017-12-20
 image: false
 headerImage: /assets/images/markdown.jpg
 tag:
