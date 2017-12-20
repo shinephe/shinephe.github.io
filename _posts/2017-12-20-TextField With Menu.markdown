@@ -10,6 +10,6 @@ tag:
 - extra
 category: blog
 star: true
-author: jamesfoster
+author: shinephe
 description: Markdown summary with different options
 ---
