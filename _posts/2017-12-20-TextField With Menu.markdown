@@ -11,5 +11,4 @@ tag:
 category: blog
 star: true
 author: shinephe
-description: Markdown summary with different options
 ---
